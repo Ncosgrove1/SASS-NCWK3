@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+$title: 'Montserrat', sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+$heading: 'Marck Script', cursive;
+
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+$primary-font: 'Dosis', sans-serif;  
+
+:root {
+--font-size-xxs: 12px;
+--font-size-xs: 14px;
+--font-size-s: 18px;
+--font-size-m: 24px;
+--font-size-l: 48px;
+
+--font-family-dosis: "Dosis";
+--font-family-march_script: "Marck Script";
+--font-family-montserrat: "Montserrat"; 
+}
